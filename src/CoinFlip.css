@@ -1,0 +1,13 @@
+.CoinFlip{
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.CoinFlip-btn{
+    margin-top:10px;
+    width:5em;
+    height:3em;
+    background-color: rgb(98, 86, 109);
+    color:white;
+}
